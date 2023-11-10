@@ -49,6 +49,7 @@ In Home Assistant the BTHome device is detected and can be added to the dashboar
 ---
 
 ###Note.
+
 This is test firmware to check hardware and BTHome operation.
 
 The Device Key is **11112222333344445555666677778888**
