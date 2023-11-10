@@ -48,7 +48,7 @@ In Home Assistant the BTHome device is detected and can be added to the dashboar
 
 ---
 
-###Note.
+### Note.
 
 This is test firmware to check hardware and BTHome operation.
 
